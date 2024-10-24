@@ -58,7 +58,7 @@ Open src/App.js and replace the existing code with:
 
 ```
 #### Explanation:
-- 1. **JSX**: React uses  JSX (JavaScript XML) to describe the UI. In the HelloReact component, JSX is used to render an <h1> tag and a <p> tag.
+- 1. **JSX**: React uses  JSX (JavaScript XML) to describe the UI. In the HelloReact component, JSX is used to render an h1 tag and a p tag.
 - 2. **Component**: The HelloReact Component is a functional component. Components are the building blocks in React.
 - 3. **Props**: In React, you pass data to components using props. In this case, we pass name = "Tahir" to HelloReact, and it renders that value.
 
