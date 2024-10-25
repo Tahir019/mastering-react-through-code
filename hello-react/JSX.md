@@ -7,7 +7,7 @@ React JSX, stands for JavaScript XML, is used to write HTML code with JavaScript
 ## Table of Contents
 1. [What is JSX?](#what-is-jsx)
 2. [Why Use JSX?](#why-use-jsx)
-3. [JSX Syntax: The Basics](#JSX-Syntax:-The-Basics)
+3. [JSX Syntax: The Basics](#JSX-Syntax-The-Basics)
 4. [Using JavaScript Inside JSX](#Using-JavaScript-Inside-JSX)
 5. [Attributes in JSX](#attributes-in-jsx)
 6. [Handling Child Elements in JSX](#handling-child-elements-in-jsx)
